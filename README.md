@@ -8,4 +8,4 @@ se o número de letras repetidas for maior que 9 então repita as letra em quest
 
 Ex:
 text = "bbbbbbbbbbbbbbbaaaaaaaaaaaaaacccdddd"
-return = "9B6B9A5A3C4C"
+return = "9B6B9A5A3C4D"
